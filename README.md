@@ -51,7 +51,7 @@ In this part of the challenge, we use jupyter-gmaps and the Google Places API to
 
   * We drop any rows that don't contain all three conditions. 
 
-* Using Google Places API, we find the first hotel for each city located within 5000 meters of your coordinates.
+* Using Google Places API, we find the first hotel for each city located within 5000 meters of the proposed coordinates.
 
 * We plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
